@@ -1,4 +1,4 @@
-# 🛒 E-commerce Data Analysis Project
+# 🛒 E-commerce Data Analysis Project (W TOKU)
 
 Projekt analizy danych zakupowych klientów z wykorzystaniem:
 
